@@ -1,0 +1,32 @@
+ul{
+    background-color: #ce5656;
+    width: 360px;
+    margin: 100px auto;
+}
+li:nth-child(2n){
+    background-color: white;
+}
+li:last-child{
+    background-color: gold;
+}
+p:first-line{
+    text-transform: uppercase;
+    
+}
+p:first-letter{
+    font-size:100px;
+}
+p2:hover{
+    background: black;
+    color:white;
+    cursor:pointer;
+}
+#para-3{
+    background: #F7F7;
+    color: blue;
+    width: 400px;
+    margin: 0px auto;
+    border: 2px solid black;
+    box-shadow: 0 0 5px rgba(0,0,0,1);
+}
+
